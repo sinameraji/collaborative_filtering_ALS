@@ -1,0 +1,30 @@
+courseid,coursetitle,courseurl,type,cost
+,Artificial Intelligence (Columbia University),https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x,video,free
+,Machine Learning (Columbia University),https://www.edx.org/course/machine-learning-columbiax-csmm-102x,video,free
+,Machine Learning (Stanford University),https://www.coursera.org/learn/machine-learning,video,free
+,Neural Networks for Machine Learning (University of Toronto),https://www.coursera.org/learn/neural-networks,video,free
+,Neural Networks for Machine Learning (University of Toronto) (youtube),https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLYvFQm7QY5Fy28dST8-qqzJjXr83NKWAr,video,free
+,"Deep Learning Specialization (by Andrew Ng, deeplearning.ai)",https://www.coursera.org/specializations/deep-learning,video,free
+,Stanford's CS20 Tensorflow for Deep Learning Research,http://web.stanford.edu/class/cs20si/,text,free
+,Machine Learning Specialization (University of Washington),https://www.coursera.org/specializations/machine-learning,video,free
+,"Machine Learning Course (2014-15 session) (by Nando de Freitas, University of Oxford)",https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/,"video,text",free
+,"Learning from Data (by Yaser S. Abu-Mostafa, Caltech)",http://www.work.caltech.edu/telecourse.html,video,free
+,Intro to Machine Learning,https://www.udacity.com/course/intro-to-machine-learning--ud120,video,free
+,"Probabilistic Graphical Models (by Prof. Daphne Koller, Stanford) ",https://www.coursera.org/specializations/probabilistic-graphical-models,video,paid
+,"Probabilistic Graphical Models (by Prof. Daphne Koller, Stanford) ",https://www.youtube.com/watch?v=WPSQfOkb1M8&list=PL50E6E80E8525B59C,video,free
+,"Reinforcement Learning Course (by David Silver, DeepMind)",https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-,video,free
+,"Reinforcement Learning Course (by David Silver, DeepMind) ",http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html,text,free
+,Keras in Motion,https://www.manning.com/livevideo/keras-in-motion,video,paid
+,Stanford's CS231n: CNNs for Visual Recognition Spring 2017,https://www.youtube.com/watch?v=vT1JzLTH4G4&index=1&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv,video,free
+,Stanford's CS231n: CNNs for Visual Recognition Winter 2016,https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC,video,free
+,"University of California, Berkeley's CS294: Deep Reinforcement Learning",https://www.youtube.com/watch?v=8jQIKgTzQd4&list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX,video,free
+,Machine Learning (Georgia Tech) on Udacity,https://www.udacity.com/course/machine-learning--ud262,video,free
+,Reinforcement Learning (Georgia Tech) on Udacity ,https://www.udacity.com/course/reinforcement-learning--ud600,video,free
+,Machine Learning for Trading,https://www.udacity.com/course/machine-learning-for-trading--ud501,video,free
+,Machine Learning Crash Course (Google),https://developers.google.com/machine-learning/crash-course/,video,free
+,Machine Learning Mini Bootcamp Course (LambdaSchool),https://lambdaschool.com/free-course-machine-learning/,video,paid
+,Microsoft Professional Program for Artificial Intelligence,https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/,video,free
+,Open Machine Learning Course (Github),https://github.com/Yorko/mlcourse_open,text,free
+,Open Machine Learning Course (Medium),https://medium.com/open-machine-learning-course,text,free
+,Open Machine Learning Course (website),https://mlcourse.ai,"video,text",free
+,Machine Learning A-Z (Udemy),https://www.udemy.com/machinelearning/,video,free
